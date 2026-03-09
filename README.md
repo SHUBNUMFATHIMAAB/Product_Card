@@ -172,6 +172,6 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-
+![alt text](image.png)
 ## RESULT:
 The Product Card with Hover Effect was successfully designed using HTML and CSS.
